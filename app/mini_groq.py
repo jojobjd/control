@@ -1,3 +1,4 @@
+import os
 import groq
 from groq import Groq
 from fastapi import FastAPI, HTTPException
